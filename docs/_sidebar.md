@@ -5,14 +5,14 @@
 
 
 
-- Getting started
+- Mathe
 
   - [Quick start](quickstart.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
 
-- Customization
+- Development
 
   - [Configuration](configuration.md)
   - [Themes](themes.md)
@@ -21,7 +21,7 @@
   - [Markdown configuration](markdown.md)
   - [Language highlighting](language-highlight.md)
 
-- Guide
+- Anleitung
 
   - [Deploy](deploy.md)
   - [Helpers](helpers.md)
