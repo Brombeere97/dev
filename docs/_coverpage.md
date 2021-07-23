@@ -2,11 +2,12 @@
 
 # docsify <small>4.12.1</small>
 
-> A magical documentation site generator.
+> Schau dir wunderschöne Apps und Tools an!
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Vergeleiche
+- Alle KOSTENLOS
+- Mit Anleitungen für Anfännger, da ich selber auch einer bin und weiß, wie scheirige es manchmal ist
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/gitpages/docs/)
 [Getting Started](#docsify)
+[Vorschläge](https://matrix.to/#/#vorschlaege:matrix.org)
