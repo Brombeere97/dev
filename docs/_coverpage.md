@@ -6,7 +6,8 @@
 
 - Alternativen
 - Alle KOSTENLOS
-- 
+
+
 [GitHub](https://github.com/gitpages/docs/)
 [Vorschläge](https://matrix.to/#/#vorschlaege:matrix.org)
-[Los Gehts](#hello)
+[Getting Started](#hello)
