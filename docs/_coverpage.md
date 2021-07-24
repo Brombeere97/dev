@@ -11,5 +11,3 @@
 [GitHub](https://github.com/gitpages/docs/)
 [Vorschläge](https://matrix.to/#/#vorschlaege:matrix.org)
 [Getting Started](#hello)
-
-oder scrolle herunter
