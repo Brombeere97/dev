@@ -11,4 +11,4 @@ scrolle herunter oder
 
 [GitHub](https://github.com/gitpages/docs/)
 [Vorschläge](https://matrix.to/#/#vorschlaege:matrix.org)
-[Getting Started](#echtme.ga)
+[Getting Started](#echtmega)
