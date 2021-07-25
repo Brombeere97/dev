@@ -1,13 +1,7 @@
 
-- # test
-  - [tescvxhrstzdfj](m/test.md)
-
-
-
-
 - Mathe
 
-  - [Quick start](quickstart.md)
+  - [Web](wem/web.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
