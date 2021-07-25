@@ -74,11 +74,11 @@
             'https://raw.githubusercontent.com/gitpages/docs/master/CHANGELOG.md',
           '/.*/_navbar.md': '/_navbar.md',
           '/es/(.*)':
-            'https://raw.githubusercontent.com/gitpages/mkdocs/master/$1',
+            'https://raw.githubusercontent.com/gitpages/docs/master/$1',
           '/de-de/(.*)':
-            'https://raw.githubusercontent.com/gitpages/mkdocs/master/$1',
-          '/ru-ru/(.*)':
-            'https://raw.githubusercontent.com/gitpages/mkdocs/master/$1',
+            'https://raw.githubusercontent.com/gitpages/docs/master/$1',
+          '/en/(.*)':
+            'https://raw.githubusercontent.com/gitpages/docs/master/$1',
           '/zh-cn/(.*)':
             'https://cdn.jsdelivr.net/gh/docsifyjs/docs-zh@master/$1',
         },
@@ -180,7 +180,7 @@
                   .replace('@master', '/blob/master');
               } else {
                 url =
-                  'https://github.com/gitpages/mkdocs/blob/master/docs/' +
+                  'https://github.com/gitpages/docs/blob/master/docs/' +
                   vm.route.file;
               }
               var editHtml = '[:memo: Edit Document](' + url + ')\n';
