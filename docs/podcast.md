@@ -1,1 +1,1 @@
-[programmierbar.html](../programmierbar.html ':include')
+[programmierbar.html](../programmierbar ':include')
