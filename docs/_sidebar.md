@@ -1,7 +1,7 @@
 
 - Mathe
 
-  - [Web](wem/web.md)
+  - [Web](web/web.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
