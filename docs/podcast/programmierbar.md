@@ -2,6 +2,9 @@
 
 ## Thema
 
+>## programmier.bar: Die Plattform für App- und Webentwickler.
+>Mit der programmier.bar wollen wir euch die Möglichkeiten bieten, euer Wissen in den Bereichen App- und Webentwicklung zu vertiefen, einen Blick hinter die Kulissen zu werfen und euch mit Gleichgesinnten in entspannter Atmosphäre auszutauschen. Aktuell haben wir dafür zwei Angebote erschaffen: Unseren Podcast und unsere Meetups. 
+
 ## Hören bei...
 
 |per App|
