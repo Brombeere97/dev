@@ -19,3 +19,20 @@
 ## Neuste Folgen hier anhören
 
 [programmierbar podcast](https://gitpages.github.io/docs/_podcast/programmierbar ':include :type=iframe width=100% height=400px')
+
+## Noch mehr tipps
+
+### Einzelne folge information
+
+hänge
+> ?format=amp&__twitter_impression=true
+
+an die url einer folge an
+
+z.B.
+
+> https://www.programmier.bar/podcast-episodes/cto-special-8-tobias-balling-von-blinkist
+
+-->
+
+>https://www.programmier.bar/podcast-episodes/cto-special-8-tobias-balling-von-blinkist?format=amp&__twitter_impression=true
