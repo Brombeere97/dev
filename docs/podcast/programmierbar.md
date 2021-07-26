@@ -1,9 +1,13 @@
 # Programmier.bar Podcast
 
+---
+
 ## Thema
 
 >## programmier.bar: Die Plattform für App- und Webentwickler.
 >Mit der programmier.bar wollen wir euch die Möglichkeiten bieten, euer Wissen in den Bereichen App- und Webentwicklung zu vertiefen, einen Blick hinter die Kulissen zu werfen und euch mit Gleichgesinnten in entspannter Atmosphäre auszutauschen. Aktuell haben wir dafür zwei Angebote erschaffen: Unseren Podcast und unsere Meetups. 
+
+---
 
 ## Hören bei...
 
@@ -19,9 +23,14 @@
 | [offizielle Website](https://www.programmier.bar/podcast)|
 | [buzzsprout](https://programmierbar.buzzsprout.com)|
 
+
+---
+
 ## Neuste Folgen hier anhören
 
 [programmierbar podcast](https://gitpages.github.io/docs/_podcast/programmierbar ':include :type=iframe width=100% height=400px')
+
+---
 
 ## Noch mehr tipps
 
