@@ -27,7 +27,7 @@
 
 - Podcast
 
-  -[Programmier.bar](podcast/programmierbar.md)
+  - [Programmier.bar](podcast/programmierbar.md)
 
 
 
