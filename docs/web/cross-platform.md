@@ -6,7 +6,7 @@ Apps mit html, js und css entwickeln
 ## Desktop
 - electron
 
-### [offizielle website](https://gitpod.io/workspaces)
+#### [offizielle website](https://gitpod.io/workspaces)
  > kurze beschreibung
 
 [weitere infotmationen](web/cross-platform/electron)
@@ -16,7 +16,7 @@ Apps mit html, js und css entwickeln
 ## Mobile
 - ionic
 
-### [offizielle website](https://dashboard.ionicframework.com/personal/apps)
+#### [offizielle website](https://dashboard.ionicframework.com/personal/apps)
  > kurze beschreibung
 
 [weitere infotmationen](web/cross-platform/ionic)
