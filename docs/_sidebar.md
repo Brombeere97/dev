@@ -2,7 +2,7 @@
 - WEB
 
   - [Web](web/web.md)
-  - [Cross-Platform](web/crossplatform.md)
+  - [Cross-Platform](web/cross-platform.md)
   - [Coding](web/code.md)
   - [Cover page](cover.md)
 
