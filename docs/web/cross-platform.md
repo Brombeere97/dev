@@ -9,11 +9,14 @@ Apps mit html, js und css entwickeln
 ### [offizielle website](https://gitpod.io/workspaces)
  > kurze beschreibung
 
-[weitere infotmationen](cross-platform/electron)
+[weitere infotmationen](web/cross-platform/electron)
 
 
 ---
 ## Mobile
 - ionic
 
+### [offizielle website](https://dashboard.ionicframework.com/personal/apps)
+ > kurze beschreibung
 
+[weitere infotmationen](web/cross-platform/ionic)
