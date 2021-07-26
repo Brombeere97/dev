@@ -1,9 +1,9 @@
 
-- Mathe
+- WEB
 
   - [Web](web/web.md)
-  - [Writing  more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
+  - [Cross-Platform](web/crossplatform.md)
+  - [Coding](web/code.md)
   - [Cover page](cover.md)
 
 - Development
