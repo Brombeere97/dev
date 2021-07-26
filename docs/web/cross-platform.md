@@ -4,7 +4,12 @@ Apps mit html, js und css entwickeln
 
 ---
 ## Desktop
-- electron 
+- electron
+
+### [offizielle website](https://gitpod.io/workspaces)
+ > kurze beschreibung
+
+[weitere infotmationen](cross-platform/electron)
 
 
 ---
