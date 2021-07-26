@@ -33,6 +33,8 @@ If you have any ideas or would like to develop a new theme, you are welcome to s
   <a data-theme="buble">buble.css</a>
   <a data-theme="dark">dark.css</a>
   <a data-theme="pure">pure.css</a>
+  <a data-theme="theme-simple.css">theme-simple.css.css</a>
+  
 </div>
 
 <style>
