@@ -11,4 +11,4 @@
 
 ### spck
 
-[spck code einbedden](https://raw.githubusercontent.com/zebzhao/indent.js/master/docs/js/main.js ':include :type=iframe width=100% height=400px')
+[spck code einbedden](https://embed.spck.io/?files=1&preview=1 ':include :type=iframe width=100% height=400px')
