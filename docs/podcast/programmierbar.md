@@ -30,7 +30,7 @@
 
 [programmierbar spotify podcast](https://open.spotify.com/embed/show/0ik0sXv9paTQCeThcOLCCJ?theme=0&amp;t=0 ':include :type=iframe width=100% height=235px')
 
-[programmierbar apple podcast](https://embed.podcasts.apple.com/us/podcast/programmier-bar-der-podcast-f%C3%BCr-app-und-webentwicklung/id1371409964 ':include :type=iframe width=100% height=455')
+[programmierbar apple podcast](https://embed.podcasts.apple.com/us/podcast/programmier-bar-der-podcast-f%C3%BCr-app-und-webentwicklung/id1371409964 ':include :type=iframe width=102% height=455')
 
 
 ---
