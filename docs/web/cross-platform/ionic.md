@@ -1,6 +1,9 @@
+[zurück zum Hauptartickel](web/cross-platform.md)
+
+
 # IonicFramework
 
-[zurück zum Hauptartickel](web/cross-platform.md)
+
 
 ## programmier.bar ionic folge
 
