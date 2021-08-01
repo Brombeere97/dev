@@ -1,4 +1,3 @@
 - Translations
   - [:de: Docsify](/#/org)
   - [:de: echtme.ga](/)
-  - 
