@@ -3,7 +3,7 @@
 
   - [Web](web/web.md)
   - [Cross-Platform](web/cross-platform.md)
-  - [Coding](web/code.md)
+  - [static Sites](web/code.md)
   - [Cover page](cover.md)
 
 - Editor, Code-Sandbox, etc
