@@ -1,7 +1,5 @@
+# IonicFramework 
 [zurück zum Hauptartickel](web/cross-platform.md)
-
-
-# IonicFramework
 
 
 
