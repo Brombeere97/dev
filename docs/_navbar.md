@@ -1,3 +1,4 @@
 - Translations
-  - [:uk: English](/#/en)
-  - [:de: Deutsch](/)
+  - [:de: Docsify](/#/org)
+  - [:de: echtme.ga](/)
+  - 
