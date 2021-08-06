@@ -10,4 +10,5 @@
 ---
 ## Spotify
 [Spotify](https://developer.spotify.com/documentation/widgets/generate/embed/)
+
 [Spotify](https://developer.spotify.com/documentation/widgets/generate/embed/ ':include :type=iframe width=100% height=455')
