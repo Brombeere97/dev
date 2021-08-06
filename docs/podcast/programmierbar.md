@@ -32,7 +32,7 @@
 [Alle Anbieter](https://dev.echtme.ga/_podcast/programmierbar)
 
 
-[programmierbar castBOX podcast](https://castbox.fm/app/castbox/player/id1488774?v=8.0.190531&autoplay=0 ':include :type=iframe width=100% height=501')
+[programmierbar deezer podcast](https://widget.deezer.com/widget/auto/show/1358472 ':include :type=iframe width=100% height=500')
 
 
 ---
