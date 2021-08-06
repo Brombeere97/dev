@@ -22,7 +22,8 @@
 |-|
 | [offizielle Website](https://www.programmier.bar/podcast)|
 | [buzzsprout](https://programmierbar.buzzsprout.com)|
-
+| [CastBox](https://castbox.fm/channel/id1488774?country=de) |
+| [hier](https://dev.echtme.ga/_podcast/programmierbar) |
 
 ---
 
