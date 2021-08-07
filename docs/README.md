@@ -3,6 +3,7 @@
 [![Gitter](https://badges.gitter.im/EchtmeGa/community.svg)](https://gitter.im/EchtmeGa/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Readme](https://img.shields.io/badge/%F0%9F%92%A1-github-8C8E93.svg?style=flat)](https://github.com/echtme-ga/dev)
 [![GitHub last commit](https://img.shields.io/github/last-commit/echtme-ga/dev.svg?style=flat)]()
+[![GitHub stars](https://img.shields.io/github/stars/echtme-ga/dev.svg?style=social&label=Stars&style=plastic)]()
 
 
 
