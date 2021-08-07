@@ -1,5 +1,7 @@
 # Programmier.bar Podcast
 
+[![Website](https://img.shields.io/website-up-down-green-red/https/programmier.bar)](https://programmier.bar/)
+
 ---
 
 ## Thema
