@@ -1,5 +1,3 @@
-![logo](_media/icon.svg)
-
 # dev.echtme.ga 
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/echtme-ga/dev.svg?style=flat)]()
