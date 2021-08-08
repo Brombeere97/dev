@@ -1,4 +1,4 @@
-# Programmier.bar Podcast [![Website](https://img.shields.io/website-up-down-green-red/https/programmier.bar)](https://programmier.bar/)
+# Programmier.bar Podcast [![Website](https://img.shields.io/website-ok-down-green-red/https/programmier.bar)](https://programmier.bar/)
 
 ---
 
