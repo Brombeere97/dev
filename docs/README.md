@@ -1,7 +1,9 @@
 # echtme.ga 
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/echtme-ga/dev.svg?style=flat)]()
-![GitHub branch checks state](https://img.shields.io/github/checks-status/echtme-ga/dev/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/echtme-ga/dev.svg?style=flat)]() ¯¯¯ 
+![GitHub branch checks state](https://img.shields.io/github/checks-status/echtme-ga/dev/master) ¯¯¯ 
+[![Maintaner](https://img.shields.io/badge/maintainer-FlipTip-red)](http://github.com/fliptip)
+
 
 
 
