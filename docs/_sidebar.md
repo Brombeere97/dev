@@ -4,7 +4,7 @@
   - [Web](web/web.md)
   - [Cross-Platform](web/cross-platform.md)
   - [static Sites](web/static-sites.md)
-  - [Cover page](cover.md)
+  - [Wikis](help/wiki.md//selfhtml)
 
 - Editor, Code-Sandbox, etc
 
